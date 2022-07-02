@@ -1,4 +1,4 @@
-# Bot-feito-em-slash-By-balah-
+# Bot Slash By: Balah  💔
 Bot totalmente em slash, para você que está começando no mundo dos bots em slash!
 
 1- Coloque o seu token no config.json!
