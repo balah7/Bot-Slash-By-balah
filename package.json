@@ -1,0 +1,17 @@
+{
+  "name": "by-balah",
+  "version": "1.0.0",
+  "description": "Um bot feito em slash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "balah",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "glob": "^8.0.3",
+    "util": "^0.12.4"
+  }
+}
